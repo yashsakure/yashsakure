@@ -1,6 +1,7 @@
-<h1 align="left">Hey I'm Yash Sakure 👋</h1>
 
 ###
+
+<h1 align="left">Hey I'm Yash Sakure 👋</h1>
 
 ###
 
@@ -12,28 +13,24 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">Language and tools</h3>
 
 ###
 
 <div align="left">
-  <span style="background-color: #f4b400; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">SQL</span>
-  <span style="background-color: #306998; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">Python</span>
-  <span style="background-color: #1e4e79; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">Excel</span>
-  <span style="background-color: #f2c94c; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">Power BI</span>
-  <span style="background-color: #006F8E; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">Tableau</span>
-  <span style="background-color: #ff6f00; padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold;">Statistics</span>
+  <img src="https://seeklogo.com/images/E/excel-logo-974BFF9CB9-seeklogo.com.png" height="40" alt="Excel"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcH8fLkbWpAgl2JP_foeHkexV1lwh7ecMiLw&s" height="40" alt="Mysql"  />
+  <img width="15" />
+  <img src="https://banner2.cleanpng.com/20180708/hit/aawf0uur5.webp" height="40" alt="PowerBI"  />
+  <img width="15" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" height="40" alt="Python"  />
+  <img width="15" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu7sb1F3f7aCt0WfRMyjmPEplhMm2aTdKag&s" height="40" alt="Tableau"  />
+  <img width="15" />
+  <img src="https://img.freepik.com/free-vector/logo-template-design_1222-77.jpg" height="40" alt="Statistics"  />
+  <img width="15" />
+  <img src="https://i.pinimg.com/736x/33/d5/cb/33d5cbb35f83f09537b33fe52b51ba30.jpg" height="40" alt="Chatgpt"  />
+  <img width="15" />
 </div>
 
-###
-
-<h2 align="left">Social</h2>
-
-###
-
-- [LinkedIn](https://linkedin.com/in/yashsakure/)  
-  Let's connect and discuss opportunities, data analytics trends, or just share insights!
-
----
-
-Feel free to explore my work and projects on this GitHub repository. Thank you for visiting!
