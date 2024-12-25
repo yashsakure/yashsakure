@@ -1,8 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey I'm Yash Sakure 👋</h1>
 
 ###
-
-<p align="left">My name is <strong>Yash Sakure</strong> and I'm a Data Analyst, from India.</p>
 
 ###
 
@@ -10,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating data-driven insights since my college days.<br>📚 I'm currently learning advanced Python and machine learning techniques.<br>🎯 Goals: To leverage data analytics for business decision-making and drive improvements in customer engagement.<br>🎲 Fun fact: I love working with large datasets and visualizing them for better clarity!</p>
+<p align="left">✨ I graduated with a B.Tech in Computer Science and Engineering from ITM University Gwalior.<br>📚 I'm a Data Anaslyst.<br>👨‍💻I have a good hands-on expertise in PowerBI, Tableau, Excel & SQL. <br>🎯 Goals: To leverage data analytics for business decision-making and drive improvements in customer engagement.<br>🎲 Fun fact: I love working with large datasets and visualizing them for better clarity!</p>
 
 ###
 
